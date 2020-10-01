@@ -1,0 +1,2 @@
+# digix2020_search_rank1
+华为digix算法大赛2020机器学习赛道-搜索相关性初赛A/B榜rank1
