@@ -27,7 +27,7 @@ tqdm
 
 ## 处理流程
 
-将训练集、测试集A、测试集B的csv文件放在/data/文件夹
+在search下创建data文件夹，并将训练集、测试集A、测试集B的csv文件放在search/data/
 
 运行reduce/reduce.py进行数据压缩
 
