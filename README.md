@@ -11,6 +11,8 @@
 
 希望大家都能进入决赛，11月份南京见！
 
+补：决赛ctr预估开源[链接](https://github.com/digix2020/digix2020_ctr_rank1)
+
 ## 项目环境
 
 Python 3.8
